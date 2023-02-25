@@ -1,5 +1,11 @@
 HELP.md
-target/
+##se comenta target para que docker pueda ubicar la ruta donde esta el .jar hacer la imagen de la app con el .jar
+###target/
+target/classes
+target/maven-status
+target/maven-archiver
+target/surefire-reports
+target/test-classes
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/

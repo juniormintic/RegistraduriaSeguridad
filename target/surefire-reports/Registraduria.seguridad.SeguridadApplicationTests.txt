@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Registraduria.seguridad.SeguridadApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.122 s - in Registraduria.seguridad.SeguridadApplicationTests
